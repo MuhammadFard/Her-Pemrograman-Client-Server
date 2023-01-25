@@ -1,0 +1,7 @@
+com\farid\perminjamanservice\VO\Nasabah.class
+com\farid\perminjamanservice\PerminjamanServiceApplication.class
+com\farid\perminjamanservice\service\PeminjamanService.class
+com\farid\perminjamanservice\entity\Peminjaman.class
+com\farid\perminjamanservice\repository\PeminjamanRepository.class
+com\farid\perminjamanservice\VO\ResponseTemplateVO.class
+com\farid\perminjamanservice\controller\PeminjamanController.class
