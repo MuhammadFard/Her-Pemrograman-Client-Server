@@ -1,0 +1,5 @@
+com\farid\nasabahservice\controller\NasabahController.class
+com\farid\nasabahservice\entity\Nasabah.class
+com\farid\nasabahservice\service\NasabahService.class
+com\farid\nasabahservice\repository\NasabahRepository.class
+com\farid\nasabahservice\NasabahserviceApplication.class
