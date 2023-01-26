@@ -1,0 +1,10 @@
+com\afifpermana\pengembalian\services\PengembalianServicesApplication.class
+com\afifpermana\pengembalian\services\vo\ResponseTemplateVO.class
+com\afifpermana\pengembalian\services\controller\PengembalianController.class
+com\afifpermana\pengembalian\services\vo\ResponseTemplateVOPinjam.class
+com\afifpermana\pengembalian\services\service\PengembalianService.class
+com\afifpermana\pengembalian\services\vo\Peminjaman.class
+com\afifpermana\pengembalian\services\entity\Pengembalian.class
+com\afifpermana\pengembalian\services\repository\PengembalianRepository.class
+com\afifpermana\pengembalian\services\vo\Anggota.class
+com\afifpermana\pengembalian\services\vo\Buku.class
